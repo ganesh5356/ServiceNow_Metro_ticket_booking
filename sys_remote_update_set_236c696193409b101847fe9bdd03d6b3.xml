@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-10-20 09:08:06">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Metro ticket booking catalog item, station table, and related configuration</description>
+<inserted/>
+<name>Book a metro ticket - Capstone</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>6d9a29e993009b101847fe9bdd03d6ba</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-20 09:08:05</sys_created_on>
+<sys_id>236c696193409b101847fe9bdd03d6b3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-20 09:08:05</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_related_sys_update_set_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_related sys_domain="global" table="sys_update_set" version="2" view=""><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><group_by_field/><list_id display_value="Update Set - Default view" name="sys_update_set" related_list="NULL" sys_domain="global" view="Default view">3e3cb4d043610210e54479aa9ab8f216</list_id><order_by/><position>0</position><related_list>sys_backout_problem.set_id</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2024-04-09 17:03:31</sys_created_on><sys_id>3a3cb4d043610210e54479aa9ab8f218</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>maint</sys_updated_by><sys_updated_on>2024-04-09 17:03:31</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><group_by_field/><list_id display_value="Update Set - Default view" name="sys_update_set" related_list="NULL" sys_domain="global" view="Default view">3e3cb4d043610210e54479aa9ab8f216</list_id><order_by/><position>1</position><related_list>sys_update_xml.update_set</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2024-04-09 17:03:31</sys_created_on><sys_id>3e3cb4d043610210e54479aa9ab8f218</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>maint</sys_updated_by><sys_updated_on>2024-04-09 17:03:31</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><group_by_field/><list_id display_value="Update Set - Default view" name="sys_update_set" related_list="NULL" sys_domain="global" view="Default view">3e3cb4d043610210e54479aa9ab8f216</list_id><order_by/><position>2</position><related_list>sys_update_set_log.update_set</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2024-04-09 17:03:31</sys_created_on><sys_id>323cb4d043610210e54479aa9ab8f219</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>maint</sys_updated_by><sys_updated_on>2024-04-09 17:03:31</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><group_by_field/><list_id display_value="Update Set - Default view" name="sys_update_set" related_list="NULL" sys_domain="global" view="Default view">3e3cb4d043610210e54479aa9ab8f216</list_id><order_by/><position>3</position><related_list>sys_update_set.merged_to</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2024-04-09 17:03:31</sys_created_on><sys_id>363cb4d043610210e54479aa9ab8f219</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>maint</sys_updated_by><sys_updated_on>2024-04-09 17:03:31</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><group_by_field/><list_id display_value="Update Set - Default view" name="sys_update_set" related_list="NULL" sys_domain="global" view="Default view">3e3cb4d043610210e54479aa9ab8f216</list_id><order_by/><position>4</position><related_list>sys_update_set.base_update_set</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2024-04-09 17:03:31</sys_created_on><sys_id>3a3cb4d043610210e54479aa9ab8f219</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>maint</sys_updated_by><sys_updated_on>2024-04-09 17:03:31</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><group_by_field/><list_id display_value="Update Set - Default view" name="sys_update_set" related_list="NULL" sys_domain="global" view="Default view">3e3cb4d043610210e54479aa9ab8f216</list_id><order_by/><position>5</position><related_list>sys_update_set.parent</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2024-04-09 17:03:31</sys_created_on><sys_id>3e3cb4d043610210e54479aa9ab8f219</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>maint</sys_updated_by><sys_updated_on>2024-04-09 17:03:31</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><group_by_field/><list_id display_value="Update Set - Default view" name="sys_update_set" related_list="NULL" sys_domain="global" view="Default view">3e3cb4d043610210e54479aa9ab8f216</list_id><order_by/><position>6</position><related_list>REL:80e1710843110210e54479aa9ab8f275</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2024-04-09 17:03:31</sys_created_on><sys_id>323cb4d043610210e54479aa9ab8f21a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>maint</sys_updated_by><sys_updated_on>2024-04-09 17:03:31</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><group_by_field/><list_id display_value="Update Set - Default view" name="sys_update_set" related_list="NULL" sys_domain="global" view="Default view">3e3cb4d043610210e54479aa9ab8f216</list_id><order_by/><position>7</position><related_list>REL:f5d33c9843210210e54479aa9ab8f2da</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2024-04-09 17:03:31</sys_created_on><sys_id>363cb4d043610210e54479aa9ab8f21a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>maint</sys_updated_by><sys_updated_on>2024-04-09 17:03:31</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list action="INSERT_OR_UPDATE"><calculated_name>Update Set - Default view</calculated_name><filter/><name>sys_update_set</name><order_by/><position/><related_list/><sys_class_name>sys_ui_related_list</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2024-04-09 17:03:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>3e3cb4d043610210e54479aa9ab8f216</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Update Set - Default view</sys_name><sys_package display_value="System Update Sets (with remote update set support)" source="com.glide.system_update_set">ca31367b8c5103100a22deb6dd2b4ece</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_related_sys_update_set_null</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2024-04-09 17:03:31</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_related_list></sys_ui_related></record_update>]]></payload>
+<payload_hash>2073461331</payload_hash>
+<remote_update_set display_value="Book a metro ticket - Capstone">236c696193409b101847fe9bdd03d6b3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-20 09:08:05</sys_created_on>
+<sys_id>e76c696193409b101847fe9bdd03d6b3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a1588c85af0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-20 09:08:05</sys_updated_on>
+<table>sys_update_set</table>
+<target_name>Update Set</target_name>
+<type>Related Lists</type>
+<update_domain>global</update_domain>
+<update_guid>f53b6dad65009b10265c74602b0df6f6</update_guid>
+<update_guid_history>f53b6dad65009b10265c74602b0df6f6:2073461331</update_guid_history>
+<update_set display_value=""/>
+<view>Default view</view>
+</sys_update_xml>
+</unload>
